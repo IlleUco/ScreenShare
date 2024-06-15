@@ -37,7 +37,8 @@ Clear-Host
 
 Write-Host "";
 Write-Host "";
-Write-Host -ForegroundColor Red " Este virus destruira tu PC - IlleUco " -NoNewLine
+Write-Host -ForegroundColor Green " Viva el Real Betis Balompie " -NoNewLine
+Write-Host -ForegroundColor White " - IlleUco " -NoNewLine
 Write-Host -ForegroundColor Green " discord.gg/sololegends";
 Write-Host "";
 
