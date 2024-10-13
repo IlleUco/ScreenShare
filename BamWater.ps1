@@ -40,7 +40,7 @@ Write-Host "";
 Write-Host "";
 Write-Host -ForegroundColor Green " Viva el Real Betis Balompie " -NoNewLine
 Write-Host -ForegroundColor White " - IlleUco " -NoNewLine
-Write-Host -ForegroundColor Green " discord.gg/watermcgg";
+Write-Host -ForegroundColor Green " discord.gg/watermcgg ";
 Write-Host "";
 
 function Test-Admin {;$currentUser = New-Object Security.Principal.WindowsPrincipal $([Security.Principal.WindowsIdentity]::GetCurrent());$currentUser.IsInRole([Security.Principal.WindowsBuiltinRole]::Administrator);}
